@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-import android
+import droid
 import urllib2
 import time
 
